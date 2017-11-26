@@ -1,0 +1,22 @@
+{
+  "name": "monetization",
+  "version": "0.0.1",
+  "description": "Monetization analytics for Zeo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/monetization.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/monetization/issues"
+  },
+  "homepage": "https://github.com/modulesio/monetization#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
